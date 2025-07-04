@@ -34,11 +34,3 @@ The model is trained using data with the following features:
 The target variable is the **recommended crop**.
 
 ---
-
-## 💻 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/crop-recommendation-system.git
-cd crop-recommendation-system
